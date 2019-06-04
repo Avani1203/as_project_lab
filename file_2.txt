@@ -1,1 +1,5 @@
 Hi there!
+
+- Hello!
+- How are you today?
+- Git seems pretty great :)
